@@ -3,6 +3,7 @@ safe_licenses = [
     "MIT",
     "Unlicense",
     "WTFPL",
+    "Apache-2.0"
 ]
 ignore_packages = [
     {package="_libgcc_mutex"},
