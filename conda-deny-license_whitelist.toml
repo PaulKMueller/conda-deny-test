@@ -1,0 +1,9 @@
+[tool.conda_comply]
+safe_licenses = [
+    "MIT",
+    "Unlicense",
+    "WTFPL",
+]
+ignore_packages = [
+    {package="_libgcc_mutex"},
+]
